@@ -10,7 +10,7 @@ import StudentHomePage from "./pages/student/studentHome";
 import Loading from "./components/Loading";
 import PageNotFound from "./pages/404";
 import InstructorDashboardPage from "./pages/instructor";
-import AddNewCoursePage from "./pages/instructor/addNewCourse";
+import AddNewCoursePage from "./pages/instructor/AddNewCourse";
 import StudentViewCoursesPage from "./pages/student/courses";
 import StudentViewCourseDetailsPage from "./pages/student/courseDetails";
 import PaymentSuccessPage from "./pages/student/paymentVerification";
